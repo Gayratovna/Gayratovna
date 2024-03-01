@@ -5,7 +5,8 @@ Allow me to introduce myself. I am currently learning .Net programming language.
 Currently, I am a student of Samarkand branch of Tashkent University of Information Technologies. 
 I will definitely help you in a few months.
 
-[![.Net](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+[![.Net](![NeT-7](https://github.com/Gayratovna/Gayratovna/assets/149236952/4bce7714-2dd3-4f8c-baa4-de0a7078d455)
+")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.informatiquenews.fr%2Fnet-7-est-disponible-avec-des-ameliorations-pour-arm-et-containers-90513&psig=AOvVaw1Eu2Ew6nathj15CTeUrQT6&ust=1709371769571000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj7u5zg0oQDFQAAAAAdAAAAABAJ)
 
 - 🌱 I'm currently learning .Net
 - 💬 Ask me only .Net questions.
