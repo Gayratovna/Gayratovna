@@ -10,6 +10,6 @@ I will definitely help you in a few months.
 - 🌱 I'm currently learning .Net
 - 💬 Ask me only .Net questions.
 - 📫 How to contact me: [GitHub link](<https://github.com/Gayratovna>)
-- 📩 My telegram link: <Gayratovna_0205>
+- 📩 My telegram link: ````Gayratovna_0205```
 - ⚡ Fun fact: The world's first computer programmer was a girl and her name was Ada Lovelance.
 
